@@ -14,3 +14,4 @@ read question
 if [$question == "1"]
 then
     ./minecraftServerInstall.sh
+fi
